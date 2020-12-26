@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.csystem</groupId>
+  <artifactId>org-csystem-util-converter</artifactId>
+  <versioning>
+    <release>1.0-RELEASE</release>
+    <versions>
+      <version>1.0-RELEASE</version>
+    </versions>
+    <lastUpdated>20201226073502</lastUpdated>
+  </versioning>
+</metadata>
